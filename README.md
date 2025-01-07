@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6a8ec2bd-668b-4179-927c-23f499a04d16)
+
+
 - 👋 Hi, I’m @bijoykrishnasarker
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+
 bijoykrishnasarker/bijoykrishnasarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
